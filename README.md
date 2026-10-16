@@ -1,3 +1,1 @@
-# Git Practice
-
-This repository was created for Git practice.
+# Open Source SW Lab7
